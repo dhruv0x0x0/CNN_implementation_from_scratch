@@ -1,4 +1,4 @@
-# pclubsecytaskML
+# LearningExercise
 The program aims to achieve digit recognition using ML techniques.
 Convolutional Neural Network model has been used to implement it.
 For now, it has been trained using mnsit dataset of 28x28 images of digits 0-9.
